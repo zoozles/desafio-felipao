@@ -1,4 +1,4 @@
 let nome = "zoozles"
 
-console.log("oi")
+console.log(nome)
 
