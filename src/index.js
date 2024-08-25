@@ -1,5 +1,5 @@
 let apresentacaoNome = "ItzBllackNiyZx" //Digite o nome do seu personagem.
-let xp = 5001   //Digite o seu level.
+let xp = 5001   //Digite o nivel do seu personagem.
 let patente ="" 
 
 let contador = 0 //declarei a iterador "contador", que geralmente é representado por "i".
