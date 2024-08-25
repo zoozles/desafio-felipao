@@ -1,11 +1,13 @@
 let apresentacaoNome = "ItzBllackNiyZx" //Digite o nome do seu personagem.
 let xp = 5001   //Digite o seu level.
 let patente ="" 
-let i = 0
 
-while(i < 1){
-    i++
+let contador = 0 //declarei a iterador "contador", que geralmente é representado por "i".
+
+while(contador < 1){
+    contador++
  //determina a quantidade de vezes que o programa é exibido
+ 
 if (xp <= 1000) {
    patente = "Ferro"
 
